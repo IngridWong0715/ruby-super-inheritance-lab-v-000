@@ -1,3 +1,5 @@
+require "student.rb"
+
 class ChattyStudent
   def hello
     super
